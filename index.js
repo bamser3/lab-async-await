@@ -25,6 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
       li.appendChild(h1);
       li.appendChild(p);
       postList.appendChild(li);
+      console.log(li);
     });
   }
 
